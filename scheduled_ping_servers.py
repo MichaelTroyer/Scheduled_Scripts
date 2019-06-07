@@ -104,6 +104,6 @@ if __name__ == '__main__':
 
     nPings = 10
 
-    skip_network = 'The Floo Network'
+    skip_network = <remote network>
 
     ping_servers(servers, output_csv, nPings, skip_network)
