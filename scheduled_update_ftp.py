@@ -78,10 +78,10 @@ if __name__ =='__main__':
             format='%(asctime)s  %(levelname)-10s %(message)s'
             )
     
-    host = '165.127.202.15'
+    host = <host>
     port = 22
-    user = 'hccftp'
-    pswx = 'hccftp!'
+    user = <user>
+    pswx = <password>
     fdir = r'/OAHP/BLM-For SHPO use ONLY/RGFO'
         
     now = datetime.date.today() 
